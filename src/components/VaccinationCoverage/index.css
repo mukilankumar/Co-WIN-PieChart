@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.container {
+  padding: 20px;
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+}
+.title {
+  color: #6c757d;
+  font-size: 34px;
+  font-family: 'Roboto';
+  text-align: left;
+}

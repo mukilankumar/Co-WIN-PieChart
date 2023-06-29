@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg {
+  background-color: #161625;
+  padding: 20px 60px 20px 60px;
+  min-height: 100vh;
+  height: 100%;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.heading {
+  color: #64c2a6;
+  font-size: 28px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.failure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  color: #cbd5e1;
+  font-size: 34px;
+  font-family: 'Roboto';
+  text-align: left;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
